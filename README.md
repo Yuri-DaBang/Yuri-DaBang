@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @Yuri-DaBang
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yuri-DaBang&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+
 ## 🧑‍💻 About Me
 I am a logical and super logical programmer with lots of fun projects. I have created more than seven programming languages and have spent a year mastering Python 🐍. Always eager to learn and share knowledge, I thrive in collaborative environments where innovation and teamwork lead to extraordinary outcomes.
 
@@ -46,6 +49,11 @@ Feel free to explore these languages and more in-depth on my GitHub profile!
 
 - Some of these projects are like elusive .EXE files 🕵️‍♂️, but fear not! You can unlock their source codes on my Patreon and dive into the magic behind the curtain! 🎩💻
 - Feel free to support me on Patreon and contribute on GitHub to join in the wizardry of code crafting! 🔮🚀
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 <!---
 Yuri-DaBang/Yuri-DaBang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
