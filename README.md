@@ -44,6 +44,7 @@ I have a knack for solving complex puzzles 🧩 and enjoy integrating humor and 
 ## 🔗 Links
 - [GitHub Profile](https://github.com/Yuri-DaBang)
 - [Patreon](https://patreon.com/akaYuri)
+  
 
 Feel free to explore these languages and more in-depth on my GitHub profile!
 
